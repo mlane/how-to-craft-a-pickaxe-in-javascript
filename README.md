@@ -41,7 +41,13 @@ This isn’t a demo. It’s a moment — a reminder that your hands still rememb
 
 ## Quick Start
 
-TODO
+```bash
+git clone https://github.com/mlane/how-to-craft-a-pickaxe-in-javascript.git
+cd how-to-craft-a-pickaxe-in-javascript
+npm create vite@latest . -- --template react-ts
+git restore README.md package.json .gitignore
+npm install tailwindcss @tailwindcss/vite
+```
 
 ## License
 
