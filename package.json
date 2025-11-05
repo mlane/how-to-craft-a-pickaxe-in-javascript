@@ -1,0 +1,19 @@
+{
+  "author": "Marcus Lane",
+  "description": "A five-minute experiment in overengineering the simplest idea imaginable — crafting a Minecraft pickaxe with JavaScript.",
+  "homepage": "https://github.com/mlane/how-to-craft-a-pickaxe-in-javascript",
+  "keywords": [
+    "creative-coding",
+    "experiment",
+    "javascript",
+    "minecraft",
+    "no-ai",
+    "react",
+    "tailwind",
+    "vercel",
+    "vite"
+  ],
+  "license": "MIT",
+  "name": "how-to-craft-a-pickaxe-in-javascript",
+  "version": "1.0.0"
+}
