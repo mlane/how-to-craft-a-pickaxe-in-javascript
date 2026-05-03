@@ -15,7 +15,7 @@ A living reminder that building doesn’t always need a reason.
 Sometimes the fun is the reason.
 
 In Minecraft, every recipe begins with a blank 3×3 grid.  
-In JavaScript, it’s similar — you start with a few simple states and see what they become.
+In JavaScript, it’s similar, you start with a few simple states and see what they become.
 
 ---
 
